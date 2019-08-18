@@ -1,0 +1,3 @@
+/Users/dirceu/Documents/Github/UvaJudge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dirceu/Documents/Github/UvaJudge/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dirceu/Documents/Github/UvaJudge/cmake-build-debug/CMakeFiles/UvaJudge.dir
